@@ -1,1 +1,0 @@
-console.log('Creative portfolio loaded!');
